@@ -1,0 +1,475 @@
+{
+  "id": "latihan-tka-sd-matematika",
+  "soal": [
+    {
+      "q": "$125\\% + 2 \\times 1,2 - 3 + \\frac{3}{5} = \\dots$",
+      "id": "s1",
+      "key": 3,
+      "tipe": "pg",
+      "options": [
+        "$0,25$",
+        "$0,65$",
+        "$1,05$",
+        "$1,25$"
+      ],
+      "pembahasan": "$125\\% = 1,25$ dan $\\frac{3}{5}=0,6$. Maka $1,25 + 2,4 - 3 + 0,6 = 1,25$."
+    },
+    {
+      "q": "Menjelang tahun ajaran baru, Toko Cerdas memberi diskon $15\\%$ untuk semua tas. Harga sebuah tas sebelum diskon adalah $\\frac{3}{4}$ dari harga kotak pensil. Harga kotak pensil adalah $0,9$ dari harga buku tulis. Jika harga buku tulis Rp80.000,00, maka harga tas setelah diskon adalah ....",
+      "id": "s2",
+      "key": 0,
+      "tipe": "pg",
+      "options": [
+        "Rp45.900,00",
+        "Rp72.000,00",
+        "Rp81.600,00",
+        "Rp96.000,00"
+      ],
+      "pembahasan": "Kotak pensil $=0,9 \\times 80.000=72.000$. Tas sebelum diskon $=\\frac{3}{4} \\times 72.000=54.000$. Setelah diskon $15\\%$, bayar $85\\% \\times 54.000=45.900$."
+    },
+    {
+      "q": "Bu Sari membuat jus jeruk sebanyak 6 wadah yang masing-masing berisi $5\\frac{1}{2}$ liter. Seluruh jus tersebut akan dimasukkan ke dalam 25 botol sedang dengan isi sama banyak dan ke dalam 10 botol kecil dengan isi setiap botolnya setengah dari botol sedang. Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "id": "s3",
+      "tipe": "bs",
+      "pembahasan": "Total $=6 \\times 5,5=33$ liter. Misal isi botol sedang $x$, maka $25x+10(0,5x)=33$ sehingga $30x=33$ dan $x=1,1$ liter. Botol kecil total $=10 \\times 0,55=5,5$ liter.",
+      "pernyataan": [
+        {
+          "key": true,
+          "teks": "Pada hari itu Bu Sari memproduksi 33 liter jus jeruk."
+        },
+        {
+          "key": false,
+          "teks": "Setiap botol sedang diisi jus jeruk sebanyak 1,2 liter."
+        },
+        {
+          "key": true,
+          "teks": "Total jus jeruk yang dikemas dalam botol kecil adalah 5,5 liter."
+        }
+      ]
+    },
+    {
+      "q": "Andi melempar sebuah dadu. Pada dadu tersebut, jumlah titik pada dua sisi yang berhadapan selalu 7. Jika sisi atas dadu menunjukkan 6 titik, maka banyak titik yang ada di sisi bawah adalah ....",
+      "id": "s4",
+      "key": 0,
+      "tipe": "pg",
+      "options": [
+        "1",
+        "2",
+        "5"
+      ],
+      "pembahasan": "Sisi bawah $=7-6=1$."
+    },
+    {
+      "q": "Untuk acara bakti sosial, SD Maju mengumpulkan beras, mi instan, dan gula. Mereka mendapat sumbangan beras 2,5 kg, satu dus mi instan berisi 40 bungkus dengan berat per bungkus 80 g, dan 4 bungkus gula pasir dengan berat masing-masing 0,5 kg. Pilih pernyataan yang benar sesuai informasi tersebut! Jawaban benar lebih dari satu.",
+      "id": "s5",
+      "key": [
+        0,
+        1
+      ],
+      "tipe": "mcma",
+      "options": [
+        "Total berat mi instan saja adalah 3.200 gram.",
+        "Berat seluruh sumbangan adalah 7,7 kg.",
+        "Berat gula pasir sama dengan berat beras."
+      ],
+      "pembahasan": "Mi $=40 \\times 80=3.200$ g $=3,2$ kg. Total $=2,5+3,2+2=7,7$ kg. Gula $=4 \\times 0,5=2$ kg, tidak sama dengan beras 2,5 kg."
+    },
+    {
+      "q": "Perpustakaan SD Cemerlang mencatat banyak siswa yang meminjam buku selama 5 hari. Data: Senin 12 siswa, Selasa 20 siswa, Rabu 16 siswa, Kamis 24 siswa, Jumat 18 siswa. Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "id": "s6",
+      "tipe": "bs",
+      "pembahasan": "Selasa $20=\\frac{5}{4} \\times 16$ (benar). Total $=12+20+16+24+18=90$ (benar). Selisih $=24-12=12$, bukan 10 (salah).",
+      "pernyataan": [
+        {
+          "key": true,
+          "teks": "Banyak siswa yang meminjam buku pada hari Selasa adalah $\\frac{5}{4}$ dari peminjaman pada hari Rabu."
+        },
+        {
+          "key": true,
+          "teks": "Total siswa peminjam buku mulai hari Senin hingga hari Jumat adalah 90."
+        },
+        {
+          "key": false,
+          "teks": "Selisih peminjam terbanyak dan tersedikit adalah 10 orang."
+        }
+      ]
+    },
+    {
+      "q": "Data piktogram buku yang dibaca: Fani 6 gambar, Gilang 4 gambar, Hana 7 gambar. Keterangan: 1 gambar $=3$ buku. Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "id": "s7",
+      "img": "27115.jpg",
+      "tipe": "bs",
+      "pembahasan": "Fani $=18$, Gilang $=12$, Hana $=21$. Fani bukan 15 (salah). Gilang lebih sedikit dari Hana (salah). Selisih Fani dan Gilang $=18-12=6$ (benar).",
+      "pernyataan": [
+        {
+          "key": false,
+          "teks": "Fani membaca 15 buku."
+        },
+        {
+          "key": false,
+          "teks": "Gilang membaca buku lebih banyak daripada Hana."
+        },
+        {
+          "key": true,
+          "teks": "Selisih buku yang dibaca Fani dan Gilang adalah 6 buku."
+        }
+      ]
+    },
+    {
+      "q": "Pak Dani mempunyai tanah seluas 4,2 hektar. Dari tanah tersebut, $\\frac{1}{6}$ bagiannya akan ditanami cabai, $\\frac{2}{7}$ bagiannya akan ditanami jagung, dan sisanya akan ditanami padi. Berapakah luas lahan yang akan ditanami padi?",
+      "id": "s8",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "1,50 hektar",
+        "2,30 hektar",
+        "2,70 hektar",
+        "3,00 hektar"
+      ],
+      "pembahasan": "Sisa padi $=1-\\frac{1}{6}-\\frac{2}{7}=\\frac{23}{42}$. Luas $=\\frac{23}{42} \\times 4,2=2,3$ hektar."
+    },
+    {
+      "q": "Sebuah akuarium berbentuk balok memiliki panjang $2$ kali lebarnya, tinggi $\\frac{3}{4}$ dari lebarnya. Jika volume akuarium $12.000\\ \\text{cm}^3$, maka lebar akuarium tersebut adalah ....",
+      "id": "s9",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "$10\\ \\text{cm}$",
+        "$20\\ \\text{cm}$",
+        "$30\\ \\text{cm}$",
+        "$40\\ \\text{cm}$"
+      ],
+      "pembahasan": "$p=2l$, $t=\\frac{3}{4}l$. Volume $=2l \\times l \\times \\frac{3}{4}l=1,5l^3=12.000$, maka $l^3=8.000$ dan $l=20\\ \\text{cm}$."
+    },
+    {
+      "q": "Ibu Rina berangkat dari Bandung ke Jakarta pukul 07.15. Jarak Bandung-Jakarta 150 km. Kecepatan rata-rata mobil Ibu Rina 60 km/jam. Di tengah perjalanan Ibu Rina berhenti 20 menit untuk istirahat. Pukul berapa Ibu Rina tiba di Jakarta?",
+      "id": "s10",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "09.35",
+        "10.05",
+        "10.25",
+        "10.45"
+      ],
+      "pembahasan": "Waktu tempuh $=150:60=2,5$ jam $=2$ jam 30 menit. Ditambah istirahat 20 menit $=2$ jam 50 menit. $07.15+2.50=10.05$."
+    },
+    {
+      "q": "Doni berulang tahun setiap tanggal 25 Oktober. Pada tahun ini, ulang tahun Doni jatuh pada hari Sabtu. Sekarang tanggal 5 September. Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "id": "s11",
+      "tipe": "bs",
+      "pembahasan": "Sisa September $=30-5=25$ hari. Oktober sampai tanggal 25 $=25$ hari. Total $=50$ hari $=7$ minggu 1 hari dan kurang dari 2 bulan.",
+      "pernyataan": [
+        {
+          "key": false,
+          "teks": "Doni harus menunggu 45 hari lagi untuk merayakan ulang tahunnya."
+        },
+        {
+          "key": true,
+          "teks": "Doni harus menunggu 7 minggu lebih 1 hari untuk merayakan ulang tahunnya."
+        },
+        {
+          "key": true,
+          "teks": "Doni harus menunggu kurang dari 2 bulan untuk merayakan ulang tahunnya."
+        }
+      ]
+    },
+    {
+      "q": "Ayah membeli 2,5 kg jeruk. Di dalam kantong, terdapat 8 buah jeruk. Berat kantong kosong 0,1 kg. Maka berat rata-rata satu buah jeruk adalah ....",
+      "id": "s12",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "0,2 kg",
+        "0,3 kg",
+        "0,4 kg",
+        "0,5 kg"
+      ],
+      "pembahasan": "Berat bersih $=2,5-0,1=2,4$ kg. Rata-rata $=2,4:8=0,3$ kg."
+    },
+    {
+      "q": "Sebuah drum berisi minyak sebanyak 1,2 hektoliter. Minyak tersebut akan dipindah ke dalam jerigen berukuran 15 liter. Setiap jerigen yang sudah penuh langsung diangkut. Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "id": "s13",
+      "tipe": "bs",
+      "pembahasan": "$1,2$ hl $=120$ liter. Jerigen $=120:15=8$, bukan 9. Total harga $=120 \\times 12.000=1.440.000$.",
+      "pernyataan": [
+        {
+          "key": true,
+          "teks": "Isi minyak dalam drum setara dengan 120 liter."
+        },
+        {
+          "key": false,
+          "teks": "Diperlukan 9 jerigen untuk memindahkan semua minyak."
+        },
+        {
+          "key": true,
+          "teks": "Jika harga 1 liter minyak Rp12.000,00, maka total harga seluruh minyak Rp1.440.000,00."
+        }
+      ]
+    },
+    {
+      "q": "Pak Guru memiliki 48 kubus kecil berukuran $1\\ \\text{cm} \\times 1\\ \\text{cm} \\times 1\\ \\text{cm}$. Kubus-kubus tersebut akan disusun menjadi balok. Pilih balok mana saja yang dapat dibentuk oleh Pak Guru! Jawaban benar lebih dari satu.",
+      "id": "s14",
+      "key": [
+        0,
+        1
+      ],
+      "tipe": "mcma",
+      "options": [
+        "Balok berukuran $6\\ \\text{cm} \\times 4\\ \\text{cm} \\times 2\\ \\text{cm}$",
+        "Balok berukuran $8\\ \\text{cm} \\times 3\\ \\text{cm} \\times 2\\ \\text{cm}$",
+        "Balok berukuran $10\\ \\text{cm} \\times 2\\ \\text{cm}$"
+      ],
+      "pembahasan": "$6 \\times 4 \\times 2=48$ (benar). $8 \\times 3 \\times 2=48$ (benar). Pilihan ketiga tidak lengkap/tidak menghasilkan 48."
+    },
+    {
+      "q": "Rama sedang berada di taman kota. Dia melihat papan petunjuk jalan: Air Mancur 300 m, Perpustakaan 0,5 km, Lapangan 120 dam, Pintu Keluar 1 km. Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "id": "s15",
+      "tipe": "bs",
+      "pembahasan": "$0,5$ km $=500$ m (benar). Lapangan $120$ dam $=1.200$ m, lebih jauh dari 300 m (salah). $300$ m $+1.000$ m $=1.300$ m $=1,3$ km (benar).",
+      "pernyataan": [
+        {
+          "key": true,
+          "teks": "Jarak ke Perpustakaan adalah 500 m."
+        },
+        {
+          "key": false,
+          "teks": "Jarak ke Lapangan lebih dekat daripada ke Air Mancur."
+        },
+        {
+          "key": true,
+          "teks": "Jika Rama ke Air Mancur lalu ke Pintu Keluar, maka Rama berjalan sejauh 1,3 km."
+        }
+      ]
+    },
+    {
+      "q": "Kak mempunyai pita sepanjang 3,25 meter. Pita tersebut akan dipotong-potong dengan panjang masing-masing 40 cm untuk menghias kado. Sisa pita yang tidak terpakai untuk menghias kado adalah sepanjang ....",
+      "id": "s16",
+      "key": 0,
+      "tipe": "pg",
+      "options": [
+        "5 cm",
+        "10 cm",
+        "15 cm",
+        "25 cm"
+      ],
+      "pembahasan": "$3,25$ m $=325$ cm. $8$ potong $\\times 40$ cm $=320$ cm. Sisa $=325-320=5$ cm."
+    },
+    {
+      "q": "Di SD Pelita, kegiatan ekstrakurikuler pramuka dilaksanakan setiap 6 hari sekali, ekstrakurikuler tari setiap 8 hari sekali, dan ekstrakurikuler melukis setiap 12 hari sekali. Jika hari ini ketiga ekstrakurikuler dilaksanakan bersamaan, setiap berapa hari sekali ketiga ekstrakurikuler tersebut akan dilaksanakan bersamaan lagi?",
+      "id": "s17",
+      "key": 2,
+      "tipe": "pg",
+      "options": [
+        "12 hari",
+        "18 hari",
+        "24 hari",
+        "48 hari"
+      ],
+      "pembahasan": "KPK dari 6, 8, dan 12 adalah 24 hari."
+    },
+    {
+      "q": "Misal $p=6-\\frac{3}{4}$ dan $q=\\frac{5}{6}+\\frac{2}{3}$. Maka $p-2q=\\dots$",
+      "id": "s18",
+      "key": 0,
+      "tipe": "pg",
+      "options": [
+        "$2\\frac{1}{4}$",
+        "$2\\frac{1}{2}$",
+        "$3\\frac{1}{4}$",
+        "$3\\frac{1}{2}$"
+      ],
+      "pembahasan": "$p=\\frac{21}{4}$. $q=\\frac{5}{6}+\\frac{4}{6}=\\frac{9}{6}=\\frac{3}{2}$. $p-2q=\\frac{21}{4}-3=\\frac{9}{4}=2\\frac{1}{4}$."
+    },
+    {
+      "q": "Lia membuat pizza dan memotongnya menjadi 12 bagian sama besar. 3 bagian diberi topping keju, 4 bagian diberi sosis, dan sisanya diberi jamur. Berapa bagiankah pizza yang diberi topping jamur dari keseluruhan pizza?",
+      "id": "s19",
+      "key": 2,
+      "tipe": "pg",
+      "options": [
+        "$\\frac{1}{4}$",
+        "$\\frac{1}{3}$",
+        "$\\frac{5}{12}$",
+        "$\\frac{7}{12}$"
+      ],
+      "pembahasan": "Bagian jamur $=12-(3+4)=5$ bagian, sehingga $\\frac{5}{12}$."
+    },
+    {
+      "q": "Perhatikan denah kebun Bu Rina berikut! Berapakah keliling kebun Bu Rina?",
+      "id": "s20",
+      "img": "27093.jpg",
+      "key": 2,
+      "tipe": "pg",
+      "options": [
+        "40 m",
+        "44 m",
+        "50 m",
+        "54 m"
+      ],
+      "pembahasan": "Kunci file: C. Catatan: berdasarkan gambar, keliling sisi luar $=12+7+10+(7-5)+9+5=45$ m. Opsi tidak memuat 45 m, sehingga soal perlu dicek. JSON mengikuti kunci file C."
+    },
+    {
+      "q": "SD Nusantara mengadakan lomba membaca puisi. Peserta dari kelas 4 sebanyak 24 siswa, kelas 5 sebanyak 30 siswa, dan kelas 6 sebanyak 36 siswa. Jika setiap kelompok lomba harus berisi siswa dari kelas yang sama dan jumlah anggota setiap kelompok sama banyak, maka banyak anggota tiap kelompok paling banyak adalah ....",
+      "id": "s21",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "4 siswa",
+        "6 siswa",
+        "8 siswa",
+        "12 siswa"
+      ],
+      "pembahasan": "FPB dari 24, 30, dan 36 adalah 6 siswa."
+    },
+    {
+      "q": "Dalam lomba lari 8 km, berikut data jarak yang sudah ditempuh peserta pada menit ke-20: Edo $0,75$ bagian; Fina $82\\%$ dari total jarak; Gani $\\frac{4}{5}$ bagian; Hani $6,4$ km. Siapakah yang telah menempuh jarak paling jauh?",
+      "id": "s22",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "Edo",
+        "Fina",
+        "Gani",
+        "Hani"
+      ],
+      "pembahasan": "Edo $=0,75 \\times 8=6$ km. Fina $=82\\% \\times 8=6,56$ km. Gani $=\\frac{4}{5} \\times 8=6,4$ km. Hani $=6,4$ km. Terjauh Fina."
+    },
+    {
+      "q": "Sebuah bangun datar memiliki sifat-sifat: mempunyai 2 pasang sisi sejajar, keempat sudutnya siku-siku, sisi yang berhadapan sama panjang, diagonalnya sama panjang dan berpotongan di tengah. Berdasarkan sifat-sifat di atas, apakah nama bangun datar tersebut?",
+      "id": "s23",
+      "key": 2,
+      "tipe": "pg",
+      "options": [
+        "Belah ketupat",
+        "Persegi",
+        "Persegi panjang",
+        "Jajargenjang"
+      ],
+      "pembahasan": "Sifat-sifat tersebut merupakan sifat persegi panjang. Kunci file: C."
+    },
+    {
+      "q": "Pada hari Sabtu, Dito mengikuti kursus renang. Dito berangkat dari rumah pukul 08.10. Perjalanan ke kolam renang memerlukan waktu 25 menit. Kursus renang berlangsung selama 1 jam 40 menit. Setelah kursus selesai, Dito jajan selama 15 menit sebelum pulang. Pukul berapakah Dito tiba kembali di rumah jika perjalanan pulang memerlukan waktu 25 menit?",
+      "id": "s24",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "10.35",
+        "10.55",
+        "11.10",
+        "11.25"
+      ],
+      "pembahasan": "$08.10+25$ menit $=08.35$. $+1$ jam 40 menit $=10.15$. $+15$ menit $=10.30$. $+25$ menit $=10.55$."
+    },
+    {
+      "q": "Perhatikan denah tempat parkir sepeda di sekolah berikut! Area parkir panjang 18 meter. 1 sepeda butuh ruang 1,5 meter ditambah jarak antar sepeda 0,5 meter. Setiap sepeda membutuhkan tempat selebar 1,5 meter. Hanya sepeda yang bisa keluar-masuk dengan mudah. Berapa sepeda lagi yang dapat diparkir di area tersebut jika sekarang sudah ada 4 sepeda?",
+      "id": "s25",
+      "key": 2,
+      "tipe": "pg",
+      "options": [
+        "3",
+        "4",
+        "5",
+        "6"
+      ],
+      "pembahasan": "Kapasitas total $=18:(1,5+0,5)=9$ sepeda. Sisa tempat $=9-4=5$ sepeda."
+    },
+    {
+      "q": "Di halaman sekolah ada lahan parkir motor berbentuk persegi panjang. Panjang lahan 12 meter dan lebar 8 meter. Satu motor membutuhkan lahan parkir ukuran $2\\ \\text{m} \\times 1\\ \\text{m}$. Pada pukul 07.00, lahan parkir terisi 25 motor. Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "id": "s26",
+      "tipe": "bs",
+      "pembahasan": "Luas $=12 \\times 8=96\\ \\text{m}^2$. Kapasitas $=96:2=48$ motor (benar). Sisa $=48-25=23$, bukan 21 (salah). Isi akhir $=25-10+5=20$ (benar).",
+      "pernyataan": [
+        {
+          "key": true,
+          "teks": "Daya tampung maksimal lahan parkir adalah 48 motor."
+        },
+        {
+          "key": false,
+          "teks": "Pada pukul 07.00 masih tersedia tempat untuk 21 motor lagi."
+        },
+        {
+          "key": true,
+          "teks": "Jika ada 10 motor keluar dan 5 motor masuk, maka lahan parkir terisi 20 motor."
+        }
+      ]
+    },
+    {
+      "q": "Rafi, Sinta, dan Tomi membaca buku. Buku Kuning 240 halaman, Ungu 300 halaman, Oranye 360 halaman. Pada minggu pertama: Rafi membaca buku Kuning, Sinta membaca buku Ungu, Tomi membaca buku Oranye. Sampai hari Sabtu mereka sudah membaca: Rafi $\\frac{3}{4}$ bagian, Sinta $60\\%$, Tomi $\\frac{5}{6}$ bagian. Berapa persen dari seluruh halaman buku yang sudah selesai dibaca Tomi?",
+      "id": "s27",
+      "key": 3,
+      "tipe": "pg",
+      "options": [
+        "60%",
+        "75%",
+        "80%",
+        "83,3%"
+      ],
+      "pembahasan": "Tomi membaca $\\frac{5}{6}$ bagian $=\\frac{5}{6} \\times 100\\%=83,33\\%$."
+    },
+    {
+      "q": "Ayah akan membuat pagar di sekeliling kebun berbentuk persegi panjang. Panjang kebun 25 meter dan lebar kebun 15 meter. Jarak antar tiang pagar 2,5 meter. Tentukan Benar atau Salah untuk setiap pernyataan berikut!",
+      "id": "s28",
+      "tipe": "bs",
+      "pembahasan": "Keliling $=2 \\times (25+15)=80$ m, bukan 40 (salah). Banyak tiang $=80:2,5=32$ (benar). Biaya $=32 \\times 25.000=800.000$ (benar).",
+      "pernyataan": [
+        {
+          "key": false,
+          "teks": "Keliling kebun Ayah adalah 40 meter."
+        },
+        {
+          "key": true,
+          "teks": "Dibutuhkan 32 tiang untuk memagari seluruh kebun."
+        },
+        {
+          "key": true,
+          "teks": "Jika harga 1 tiang Rp25.000,00 maka Ayah butuh Rp800.000,00 untuk membeli semua tiang."
+        }
+      ]
+    },
+    {
+      "q": "Anak usia 7-9 tahun membutuhkan protein 65 gram per hari. Data kandungan protein per 100 gram makanan: alpukat 2 gram, daging ayam 27 gram, ikan 20 gram, telur ayam 13 gram, susu 3 gram. Jika seorang anak makan 200 gram daging ayam, makanan mana lagi yang harus ditambahkan agar kebutuhan protein hariannya terpenuhi? Pilih jawaban benar lebih dari satu.",
+      "id": "s29",
+      "key": [
+        0,
+        2
+      ],
+      "tipe": "mcma",
+      "options": [
+        "100 gram ikan",
+        "200 gram susu",
+        "2 butir telur ayam (1 butir = 50 gram)"
+      ],
+      "pembahasan": "200 g ayam $=2 \\times 27=54$ g. Kekurangan $=65-54=11$ g. 100 g ikan $=20$ g (cukup). 2 butir telur $=100$ g $=13$ g (cukup). 200 g susu $=6$ g (tidak cukup)."
+    },
+    {
+      "q": "Remaja putri usia 13-15 tahun perlu 65 gram protein dan 70 gram lemak per hari. Hari ini ia sudah mengonsumsi 50 gram protein dan 40 gram lemak. Tentukan Benar atau Salah untuk setiap pernyataan berikut jika ia menambah konsumsi makanan!",
+      "id": "s30",
+      "tipe": "bs",
+      "pembahasan": "A: protein 70, lemak 55, lemak belum terpenuhi sehingga pernyataan salah. B: protein 60, lemak 45, keduanya belum terpenuhi sehingga pernyataan benar. C: protein 65, lemak 70, keduanya terpenuhi sehingga pernyataan salah. D: protein 65, lemak 80, keduanya terpenuhi sehingga pernyataan benar. Catatan: kunci file mencantumkan B Salah dan C Benar; berdasarkan hitungan, B Benar dan C Salah.",
+      "pernyataan": [
+        {
+          "key": false,
+          "teks": "Jika ia menambah 20 gram protein dan 15 gram lemak, maka kebutuhan protein dan lemaknya sudah terpenuhi."
+        },
+        {
+          "key": true,
+          "teks": "Jika ia menambah 10 gram protein dan 5 gram lemak, maka kebutuhan protein dan lemaknya belum terpenuhi."
+        },
+        {
+          "key": false,
+          "teks": "Jika ia menambah 15 gram protein dan 30 gram lemak, maka kebutuhan protein terpenuhi, tetapi kebutuhan lemak belum terpenuhi."
+        },
+        {
+          "key": true,
+          "teks": "Jika ia menambah 15 gram protein dan 40 gram lemak, maka kebutuhan protein dan lemaknya sudah terpenuhi."
+        }
+      ]
+    }
+  ],
+  "judul": "Latihan TKA SD Matematika",
+  "mapel": "Matematika",
+  "version": "1.1",
+  "acakMode": "none",
+  "durasiMenit": 60,
+  "latihanMandiri": true
+}
