@@ -1,0 +1,182 @@
+{
+  "version": "1.1",
+  "id": "tka-bilangan-rasional",
+  "judul": "TKA Bilangan Rasional",
+  "mapel": "Matematika",
+  "durasiMenit": 20,
+  "acakMode": "per-tipe",
+  "latihanMandiri": true,
+  "wacana": null,
+  "wacana_judul": "Bilangan Rasional",
+  "soal": [
+    {
+      "q": "Pak Budi memiliki lahan pertanian seluas $2\\frac{1}{2}$ hektare. Sebanyak $20\\%$ dari lahan tersebut ditanami jagung, $1.2$ hektare ditanami padi, dan sisanya ditanami singkong. Berapa hektare luas lahan yang ditanami singkong?",
+      "id": "s1",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "$\\frac{3}{5}$ hektare",
+        "$\\frac{4}{5}$ hektare",
+        "$1\\frac{1}{5}$ hektare",
+        "$1\\frac{2}{5}$ hektare"
+      ],
+      "pembahasan": "Total lahan $= 2.5$ hektare. Jagung $= 20\\% \\times 2.5 = 0.5$ hektare. Sisa lahan (singkong) $= 2.5 - 0.5 - 1.2 = 0.8$ hektare atau $\\frac{4}{5}$ hektare."
+    },
+    {
+      "q": "Ibu akan membuat kue bolu. Berdasarkan resep, Ibu membutuhkan bahan utama yaitu $\\frac{3}{4}$ kg tepung terigu, $0.5$ kg gula pasir, dan $250$ gram mentega. Pilihlah pernyataan yang bernilai benar berdasarkan resep tersebut! (Ingat $1$ kg $= 1000$ gram)",
+      "id": "s2",
+      "img": "https://raw.githubusercontent.com/onelabszz/tka-exams/main/images/CR5QAH-s2.webp",
+      "key": [
+        0,
+        2
+      ],
+      "tipe": "mcma",
+      "img_ref": "ilustrasi bahan kue mentega, terigu, dan timbangan",
+      "options": [
+        "Berat tepung terigu sama dengan $75\\%$ dari $1$ kg.",
+        "Gula pasir yang dibutuhkan lebih berat daripada tepung terigu.",
+        "Berat mentega jika diubah ke bentuk desimal adalah $0.25$ kg.",
+        "Selisih berat tepung terigu dan gula pasir adalah $\\frac{1}{5}$ kg."
+      ],
+      "pembahasan": "Tepung $\\frac{3}{4}$ kg $= 0.75$ kg ($75\\%$). Mentega $250$ gram $= 0.25$ kg. Gula $0.5$ kg lebih ringan dari tepung ($0.5 < 0.75$). Selisih tepung dan gula adalah $0.75 - 0.50 = 0.25$ kg ($\\frac{1}{4}$ kg, bukan $\\frac{1}{5}$)."
+    },
+    {
+      "q": "Sebuah pusat perbelanjaan menawarkan diskon di berbagai tokonya untuk menyambut tahun ajaran baru. Toko A memberikan diskon $\\frac{1}{2}$ harga, Toko B memberikan diskon $45\\%$, dan Toko C memberikan potongan harga sebesar $0.6$ dari harga normal. Tentukan Benar atau Salah pernyataan berikut!",
+      "id": "s3",
+      "tipe": "bs",
+      "pembahasan": "Konversi ke persen: Toko A $= 50\\%$, Toko B $= 45\\%$, Toko C $= 60\\%$. Urutan dari yang terkecil adalah B ($45\\%$), A ($50\\%$), C ($60\\%$).",
+      "pernyataan": [
+        {
+          "key": true,
+          "teks": "Diskon di Toko C adalah yang paling besar dibandingkan toko lainnya."
+        },
+        {
+          "key": true,
+          "teks": "Urutan toko dari diskon terkecil ke terbesar adalah Toko B, Toko A, Toko C."
+        },
+        {
+          "key": false,
+          "teks": "Diskon Toko A lebih kecil dari diskon Toko B."
+        }
+      ]
+    },
+    {
+      "q": "Sebuah galon berisi air minum sebanyak $19$ liter. Ayah menggunakan $\\frac{1}{4}$ bagian dari air tersebut untuk keperluan memasak dan menyeduh teh. Setelah itu, Ayah menuangkan air isi ulang sebanyak $2.5$ liter ke dalam galon tersebut. Berapa liter volume air di dalam galon sekarang?",
+      "id": "s4",
+      "key": 2,
+      "tipe": "pg",
+      "options": [
+        "$15\\frac{1}{2}$ liter",
+        "$16\\frac{1}{4}$ liter",
+        "$16\\frac{3}{4}$ liter",
+        "$17\\frac{1}{4}$ liter"
+      ],
+      "pembahasan": "Air yang digunakan $= 19 \\times \\frac{1}{4} = 4.75$ liter, sehingga sisa air $= 19 - 4.75 = 14.25$ liter. Volume akhir $= 14.25 + 2.5 = 16.75$ liter atau $16\\frac{3}{4}$ liter."
+    },
+    {
+      "q": "Siti bersepeda dari rumah ke sekolah dengan jarak tempuh total $4.5$ km. Saat ini, Siti sedang beristirahat sebentar setelah mengayuh sepedanya sejauh $2\\frac{3}{5}$ km. Manakah pernyataan di bawah ini yang tepat menggambarkan perjalanan Siti?",
+      "id": "s5",
+      "key": [
+        0,
+        1,
+        2
+      ],
+      "tipe": "mcma",
+      "options": [
+        "Jarak yang belum ditempuh Siti adalah $1.9$ km.",
+        "Jarak yang sudah ditempuh Siti setara dengan $2600$ meter.",
+        "Siti sudah menempuh lebih dari $50\\%$ perjalanan.",
+        "Jika dinyatakan dalam pecahan biasa, jarak total rumah ke sekolah adalah $\\frac{7}{2}$ km."
+      ],
+      "pembahasan": "Jarak yang sudah ditempuh $2\\frac{3}{5} = 2.6$ km ($2600$ m). Sisa jarak $= 4.5 - 2.6 = 1.9$ km. Separuh jalan adalah $2.25$ km, maka $2.6$ km berarti sudah lebih dari $50\\%$. Jarak total $4.5 = \\frac{9}{2}$, bukan $\\frac{7}{2}$."
+    },
+    {
+      "q": "Pak Andi sedang mengecat pagar rumahnya yang memiliki panjang total $15$ meter. Pada hari pertama, ia berhasil mengecat sepanjang $2\\frac{3}{4}$ meter. Pada hari kedua, ia mengecat sepanjang $3.5$ meter, dan pada hari ketiga sepanjang $4\\frac{1}{2}$ meter. Berapa meter lagi sisa pagar yang belum dicat oleh Pak Andi?",
+      "id": "s6",
+      "key": 1,
+      "tipe": "pg",
+      "options": [
+        "$3\\frac{1}{4}$ meter",
+        "$4\\frac{1}{4}$ meter",
+        "$4\\frac{1}{2}$ meter",
+        "$5\\frac{1}{4}$ meter"
+      ],
+      "pembahasan": "Pagar yang sudah dicat: $2.75 + 3.5 + 4.5 = 10.75$ meter. Sisa pagar: $15 - 10.75 = 4.25$ meter atau setara dengan $4\\frac{1}{4}$ meter."
+    },
+    {
+      "q": "Lani membuat minuman es buah untuk acara keluarga. Ia mencampurkan $1.5$ liter air mineral, $\\frac{3}{8}$ liter sirup kental, dan $25\\%$ dari sebotol susu cair berukuran $1$ liter. Pilihlah pernyataan yang bernilai benar berdasarkan campuran minuman es buah Lani tersebut!",
+      "id": "s7",
+      "img": "es_buah.jpg",
+      "key": [
+        0,
+        1,
+        3
+      ],
+      "tipe": "mcma",
+      "img_ref": "ilustrasi es buah segar dengan sirup dan susu",
+      "options": [
+        "Total volume campuran es buah tersebut lebih dari $2$ liter.",
+        "Volume sirup yang digunakan Lani lebih banyak daripada volume susu cair.",
+        "Susu cair yang digunakan Lani setara dengan $\\frac{1}{5}$ liter.",
+        "Selisih antara volume air mineral dan sirup adalah $1.125$ liter."
+      ],
+      "pembahasan": "Air = $1.5$ liter, sirup = $0.375$ liter, susu = $0.25$ liter ($\\frac{1}{4}$ liter, bukan $\\frac{1}{5}$ liter). Total volume: $1.5 + 0.375 + 0.25 = 2.125$ liter ($>2$ liter). Selisih air dan sirup: $1.5 - 0.375 = 1.125$ liter."
+    },
+    {
+      "q": "Seorang kurir jasa ekspedisi menimbang tiga paket kiriman. Paket X memiliki berat $3.2$ kg, Paket Y beratnya $3\\frac{1}{4}$ kg, dan Paket Z beratnya $340\\%$ kg. Tentukan Benar atau Salah dari setiap pernyataan di bawah ini!",
+      "id": "s8",
+      "tipe": "bs",
+      "pembahasan": "Bentuk desimal semua paket: X = $3.2$ kg, Y = $3.25$ kg, Z = $3.4$ kg. Paket Y lebih berat dari X ($3.25 > 3.2$). Total berat: $3.2 + 3.25 + 3.4 = 9.85$ kg ($<10$ kg).",
+      "pernyataan": [
+        {
+          "key": false,
+          "teks": "Paket Y lebih ringan dibandingkan dengan Paket X."
+        },
+        {
+          "key": true,
+          "teks": "Paket Z adalah paket yang paling berat di antara ketiga kiriman tersebut."
+        },
+        {
+          "key": true,
+          "teks": "Total berat ketiga paket tersebut jika dijumlahkan kurang dari $10$ kg."
+        }
+      ]
+    },
+    {
+      "q": "Dini memiliki uang tabungan sebesar Rp $240.000$. Ia menggunakan $\\frac{1}{3}$ dari uang tabungannya untuk membeli alat tulis, lalu menggunakan $25\\%$ untuk membeli buku cerita, dan sisanya ditabung kembali ke dalam celengan di rumah. Manakah pernyataan berikut ini yang tepat?",
+      "id": "s9",
+      "key": [
+        0,
+        2
+      ],
+      "tipe": "mcma",
+      "options": [
+        "Uang yang digunakan untuk membeli alat tulis adalah Rp $80.000$.",
+        "Uang tabungan yang dimasukkan kembali ke celengan adalah Rp $120.000$.",
+        "Bagian uang yang masuk ke celengan setara dengan pecahan $\\frac{5}{12}$ dari total tabungan Dini.",
+        "Dini menghabiskan lebih banyak uang untuk membeli buku cerita daripada membeli alat tulis."
+      ],
+      "pembahasan": "Alat tulis = $\\frac{1}{3} \\times 240.000 = 80.000$. Buku = $25\\% \\times 240.000 = 60.000$. Celengan = $240.000 - (80.000 + 60.000) = 100.000$. Pecahan celengan: $\\frac{100.000}{240.000} = \\frac{10}{24} = \\frac{5}{12}$."
+    },
+    {
+      "q": "Ibu Rita memiliki pita sepanjang $12$ meter. Ia menggunakan pita tersebut sepanjang $4.5$ meter untuk menghias gaun anak dan $3\\frac{3}{4}$ meter untuk membuat jepit rambut. Ibu Rita kemudian memotong habis sisa pitanya menjadi $3$ bagian yang sama panjang untuk diikatkan pada kado. Tentukan Benar atau Salah pernyataan berikut!",
+      "id": "s10",
+      "tipe": "bs",
+      "pembahasan": "Total pita terpakai: $4.5 + 3.75 = 8.25$ meter (bukan $8.5$ meter). Sisa pita: $12 - 8.25 = 3.75$ meter. Tiap potongan kecil: $3.75 \\div 3 = 1.25$ meter atau $1\\frac{1}{4}$ meter.",
+      "pernyataan": [
+        {
+          "key": false,
+          "teks": "Total panjang pita yang telah digunakan Ibu Rita untuk menghias gaun dan membuat jepit rambut adalah $8\\frac{1}{2}$ meter."
+        },
+        {
+          "key": true,
+          "teks": "Panjang sisa pita sebelum dipotong menjadi 3 bagian adalah $3.75$ meter."
+        },
+        {
+          "key": true,
+          "teks": "Masing-masing potongan pita kecil untuk kado memiliki panjang $1\\frac{1}{4}$ meter."
+        }
+      ]
+    }
+  ]
+}
